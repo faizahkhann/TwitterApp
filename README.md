@@ -33,13 +33,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+https://imgur.com/a/VjU244h
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+-Nullpointer Exception 
+-Emulator took a long time to install/run 
 
 ## Open-source libraries used
 
